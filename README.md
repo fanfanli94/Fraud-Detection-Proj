@@ -23,3 +23,6 @@ Run REV2.ipynb to iteratively update the fairness score for each reviewer, and g
 Run data_process.py to pre process the data.
 
 Run main.py to generate new trained model and get results.
+
+Check out the detailed Slide presentation:
+https://docs.google.com/presentation/d/13JYadHbMd3GpzpLBth_LUelQ98Hqnyx4/edit#slide=id.g187f802372c_8_25
